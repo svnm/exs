@@ -7,6 +7,10 @@ clone the repo
 
 cd into it...
 
+`cd exs`
+
+install and run
+
 `npm install`
 
 `node server`
