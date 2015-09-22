@@ -1,0 +1,14 @@
+{
+  "name": "exs",
+  "version": "1.0.0",
+  "description": "Just an extremely simple example of running express to host a local website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
