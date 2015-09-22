@@ -15,6 +15,6 @@ install and run
 
 `node server`
 
-go to localhost:8080 in the browser...
+go to http://localhost:8080 in the browser...
 
 based on the article from scotch.io [use expressjs to deliver html files](https://scotch.io/tutorials/use-expressjs-to-deliver-html-files)
